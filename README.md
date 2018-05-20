@@ -1,2 +1,3 @@
 # Pingpong-Game
-Java
+A two-players game using Java, and Socket Programming.
+
